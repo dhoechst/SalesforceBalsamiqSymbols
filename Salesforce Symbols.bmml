@@ -1,0 +1,212 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="384" measuredH="266" mockupW="325" mockupH="226">
+  <controls>
+    <control controlID="2" controlTypeID="__group__" x="60" y="40" w="303" h="40" measuredW="303" measuredH="40" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Text%20Input%20Required</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="180" y="7" w="123" h="-1" measuredW="79" measuredH="26" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="9" w="165" h="-1" measuredW="75" measuredH="22" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <align>right</align>
+            <bold>true</bold>
+            <size>14</size>
+            <state>up</state>
+            <text>Field%20Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="171" y="0" w="-1" h="-1" measuredW="10" measuredH="40" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <align>right</align>
+            <bold>true</bold>
+            <size>32</size>
+            <state>up</state>
+            <text>%7Bcolor%3A%23ff0000%7D%7C%7Bcolor%7D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="60" y="80" w="302" h="26" measuredW="302" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Text%20Input</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="181" y="0" w="121" h="-1" measuredW="79" measuredH="26" zOrder="0" locked="false" isInGroup="3">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="2" w="164" h="-1" measuredW="75" measuredH="22" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <align>right</align>
+            <bold>true</bold>
+            <size>14</size>
+            <state>up</state>
+            <text>Field%20Name</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="__group__" x="59" y="106" w="304" h="40" measuredW="304" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Picklist%20Required</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="304" h="40" measuredW="304" measuredH="40" zOrder="0" locked="false" isInGroup="4">
+          <controlProperties>
+            <controlName>Required%20Picklist</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="9" w="165" h="-1" measuredW="75" measuredH="22" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>14</size>
+                <state>up</state>
+                <text>Field%20Name</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="175" y="0" w="-1" h="-1" measuredW="10" measuredH="40" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>32</size>
+                <state>up</state>
+                <text>%7Bcolor%3A%23ff0000%7D%7C%7Bcolor%7D</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="185" y="8" w="119" h="-1" measuredW="80" measuredH="24" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>%5C--None--</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="60" y="147" w="304" h="24" measuredW="304" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Picklist</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="304" h="24" measuredW="304" measuredH="24" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <controlName>Required%20Picklist</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="1" w="165" h="-1" measuredW="75" measuredH="22" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>14</size>
+                <state>up</state>
+                <text>Field%20Name</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="185" y="0" w="119" h="-1" measuredW="80" measuredH="24" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>%5C--None--</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="60" y="171" w="324" h="40" measuredW="324" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Lookup%20Required</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="180" y="7" w="123" h="-1" measuredW="79" measuredH="26" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="9" w="165" h="-1" measuredW="75" measuredH="22" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <align>right</align>
+            <bold>true</bold>
+            <size>14</size>
+            <state>up</state>
+            <text>Field%20Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="171" y="0" w="-1" h="-1" measuredW="10" measuredH="40" zOrder="2" locked="false" isInGroup="6">
+          <controlProperties>
+            <align>right</align>
+            <bold>true</bold>
+            <size>32</size>
+            <state>up</state>
+            <text>%7Bcolor%3A%23ff0000%7D%7C%7Bcolor%7D</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="303" y="9" w="-1" h="-1" measuredW="21" measuredH="23" zOrder="3" locked="false" isInGroup="6">
+          <controlProperties>
+            <filter>true</filter>
+            <src>./assets/lookup%2520icon.png</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="__group__" x="60" y="211" w="324" h="26" measuredW="324" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Lookup</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="180" y="0" w="123" h="-1" measuredW="79" measuredH="26" zOrder="0" locked="false" isInGroup="7">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="2" w="165" h="-1" measuredW="75" measuredH="22" zOrder="1" locked="false" isInGroup="7">
+          <controlProperties>
+            <align>right</align>
+            <bold>true</bold>
+            <size>14</size>
+            <state>up</state>
+            <text>Field%20Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="303" y="2" w="-1" h="-1" measuredW="21" measuredH="23" zOrder="2" locked="false" isInGroup="7">
+          <controlProperties>
+            <filter>true</filter>
+            <src>./assets/lookup%2520icon.png</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8" controlTypeID="__group__" x="60" y="244" w="201" h="22" measuredW="201" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Checkbox</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="201" h="22" measuredW="201" measuredH="22" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <controlName>Required%20Picklist</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="165" h="-1" measuredW="75" measuredH="22" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>14</size>
+                <state>up</state>
+                <text>Field%20Name</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="181" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <state>selected</state>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
