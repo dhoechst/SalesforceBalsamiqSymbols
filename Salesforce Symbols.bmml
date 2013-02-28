@@ -147,7 +147,7 @@
         <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="303" y="9" w="-1" h="-1" measuredW="21" measuredH="23" zOrder="3" locked="false" isInGroup="6">
           <controlProperties>
             <filter>true</filter>
-            <src>./assets/lookup%2520icon.png</src>
+            <src>./assets/lookup%20icon.png</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -174,7 +174,7 @@
         <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="303" y="2" w="-1" h="-1" measuredW="21" measuredH="23" zOrder="2" locked="false" isInGroup="7">
           <controlProperties>
             <filter>true</filter>
-            <src>./assets/lookup%2520icon.png</src>
+            <src>./assets/lookup%20icon.png</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
